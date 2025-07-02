@@ -1,2 +1,3 @@
 # minahil-demo
-this is mt 1st github repo
+This is my 1st github repo.
+Author-Minah
